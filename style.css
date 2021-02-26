@@ -12,3 +12,8 @@ body {
   border-bottom: 1px solid #000066;
   background-color: rgba(0,0,0,0.04)
 }
+
+img {
+  width: 50%;
+  height: 25%;
+}
